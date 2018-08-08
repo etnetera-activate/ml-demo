@@ -1,1 +1,5 @@
-./data-in
+data-in
+data-out/dataset.row.pickle
+data-out/dataset.csv
+data-out/dataset.cols.pickle
+data-in/Historie polohy.json
